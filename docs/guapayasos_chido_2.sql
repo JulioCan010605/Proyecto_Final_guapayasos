@@ -124,7 +124,7 @@ CREATE TABLE `usuarios` (
 
 LOCK TABLES `usuarios` WRITE;
 /*!40000 ALTER TABLE `usuarios` DISABLE KEYS */;
-INSERT INTO `usuarios` VALUES (0,'Kendra Regina','','0','C','Rauda Ramírez','q','v',0),(321184570,'Prueba','6694cc32d0c7ae8eeaf4','5575182296','fondofalcon.jpg','Hola Spoy','quinto','vespertino',1),(321234567,'Annie','269935db3772f699d32c','0','fondofalcon.jpg','Sánchez Hola','quinto','vespertino',1),(321234598,'Annie','f8a1509d84a89eb893b4','2147483647','fondofalcon.jpg','Sánchez Hola','quinto','vespertino',1),(322184570,'Prueba','1e86401177ffd46e140b','2147483647','fondofalcon.jpg','Hola Spoy','quinto','vespertino',1),(322185407,'Kendra Regina','ca2f2069ea0c6e465822','2147483647','Captura de pantalla 2023-06-21','Rauda Ramírez','cuarto','matutino',1),(322185470,'Annie','51f9f67c3ff39b7ea01e','2147483647','fondofalcon.jpg','Sánchez Hola','quinto','vespertino',1),(323186507,'','','0','','','','',0);
+INSERT INTO `usuarios` VALUES (0,'Kendra Regina','','0','C','Rauda Ramírez','q','v',0),(321114808,'Julio','1d438ead30399123aec1','5569696969','a','Sánchez Hola','a','a',1),(321184570,'Prueba','6694cc32d0c7ae8eeaf4','5575182296','fondofalcon.jpg','Hola Spoy','quinto','vespertino',1),(321234567,'Annie','269935db3772f699d32c','0','fondofalcon.jpg','Sánchez Hola','quinto','vespertino',1),(321234598,'Annie','f8a1509d84a89eb893b4','2147483647','fondofalcon.jpg','Sánchez Hola','quinto','vespertino',1),(321266241,'Andreco','1c34a7e8108f355d40cf','5515058421','fondofalcon.jpg','Pillo','sexto','matutino',1),(322184570,'Prueba','1e86401177ffd46e140b','2147483647','fondofalcon.jpg','Hola Spoy','quinto','vespertino',1),(322185407,'Kendra Regina','ca2f2069ea0c6e465822','2147483647','Captura de pantalla 2023-06-21','Rauda Ramírez','cuarto','matutino',1),(322185470,'Annie','51f9f67c3ff39b7ea01e','2147483647','fondofalcon.jpg','Sánchez Hola','quinto','vespertino',1),(323186507,'','','0','','','','',0),(323628145,'Cristo','beat05/A?','5546721987','gato.jpg','Prado','cuarto','matutino',1),(323815407,'','',NULL,NULL,'',NULL,NULL,0);
 /*!40000 ALTER TABLE `usuarios` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -137,4 +137,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-06-23 17:53:40
+-- Dump completed on 2023-06-24 22:11:57
