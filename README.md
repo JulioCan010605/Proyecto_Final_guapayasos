@@ -53,24 +53,24 @@ Cada uno aportó en diversas partes del trabajo según sus aptitudes y habilidad
 	+ Documentación
 
 
-##Funcionamiento 
+## Funcionamiento 
 
 Para comenzar con el funcionamiento de nuestro código, tenemos como primera visa el “Index.html” el cual funciona como la página principal y esta le da la bienvenida al usuario para empezar a navegar, en ella vamos a encontrar los 3 diferentes tipos de roles que están configurados en nuestra página: Usuario (rol 1), Administrador (rol 3), Moderador (rol 2), cada uno de estos tiene funciones distintas dentro de la página, primero describiremos al “Usuario”, este es el rol que se adquiere por defecto al regístrate por primera vez en la página. En este se encuentran una sección para poder acceder a los otros foros, debes de iniciar sesión con tu número de cuenta y contraseña; en caso de no poseer una cuenta en la plataforma previamente, tendrás que registrarte con los datos que se te piden en el respectivo formulario ya conectado con la base de datos. Tu información se guardará como registro dentro de esta base, ¡No te preocupes tu información esta segura!
 
 
-##Puntos Importantes
+## Puntos Importantes
 Somos conscientes de que este trabajo no logro terminarse al 100% por lo que mencionaremos los puntos mas importantes:
 
 + Para poder lograr que la pagina funcione con el usuario es necesario usar la cuenta  **323628145** y contraseña **beat05/A?**
 
 
-##Recursos para ejecutarlo
+## Recursos para ejecutarlo
 
 Para lograr la correcta ejecución de este trabajo es necesario que se instale el respaldo de la base de datos desde el cmd de nuestra computadora accedemos a **cd c:/xampp/mysql/bin** para poder acceder a maríaDB es necesario ejecutar el comando **mysql -u root** una vez dentro, creas la base de datos con el nombre **guapayasos**, la seleccionas e instalas el respaldo, con esto nos aseguramos del correcto funcionamiento de la base de datos, además la base está dentro de la carpeta **Docs** con el nombre de **guapayasos_chido.sql**, y como lo comentamos anteriormente, para hacer uso de usuario es necesario ingresar la cuenta que se les proporciona, con esta pueden hacer todas las pruebas.
 
 Para la creación de una cuenta es necesario llenar cada uno de los datos que se encuentran en el formulario. De forma específica, para el numero de cuenta debes de ingresar un **numero** entre el **21-23** después del primer **número inicial (3)**; para el **teléfono celular**, debe de ser un numero que **empiece en 55 y que tenga 10 caracteres**, en cuestión de la **contraseña** se pueden incluir **cualquier letra, número o carácter mínimo ocho veces.**
 
-##Dedicatoria
+## Dedicatoria
 Para terminar, queremos dedicar este desastroso trabajo a los instructores que creyeron en nosotros:
 
 + AndrecoTroll:v
