@@ -10,7 +10,8 @@
       <head>
         <meta charset='UTF-8'/>
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
-        <title>Mapa</title>
+        <title>Crear publicacion</title>
+        <link rel='icon' href='../statics/media/img/Godo.png' type='image/x-icon'>
         <link rel='stylesheet' href=''../templates\mapa.html'>
       </head>
       <body>
